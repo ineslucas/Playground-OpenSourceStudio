@@ -31,3 +31,5 @@ what are the colors of a rainbow, I forget.
 * [name](blog url)
 * [yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)  
 * [Sihong's blog :D](https://www.notion.so/Open-Source-Studio-33a7c8dca3458049ad98d791a17b1fc9?source=copy_link)
+* [Kezia's blog ⭐️](https://klogs.e-kezia.com/itp-blog/open-source-studio/am-i-doing-software-really) - hoping to contribute to https://p5xr.org !
+
