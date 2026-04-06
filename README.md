@@ -3,8 +3,8 @@ Playground for students to experiment with git commands and the GitHub platform
 
 ## Poem
 
-Roses are red  
-Violets are blue  
+Roses are red
+Violets are blue
 ```
                              000      00
                            0000000   0000
@@ -29,5 +29,6 @@ what are the colors of a rainbow, I forget.
 
 ## links to blogs
 * [name](blog url)
-* [yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)  
+* [yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)
 * [Sihong's blog :D](https://www.notion.so/Open-Source-Studio-33a7c8dca3458049ad98d791a17b1fc9?source=copy_link)
+* [Inês's blog](https://mariaineslucas.com/spring-2026/open-source-studio)
