@@ -1,0 +1,63 @@
+{
+  "title": "Rajeshwari's NYC Spots",
+  "author": "Rajeshwari Kotwal",
+  "description": "A personal guide to my favorite spots in New York City",
+  "spots": [
+    {
+      "name": "Washington Square Park",
+      "neighborhood": "Greenwich Village",
+      "vibe": "chaotic, artsy, alive",
+      "best_for": "people watching and spontaneous chess games",
+      "go_when": "Sunday afternoon"
+    },
+    {
+      "name": "Tompkins Square Park",
+      "neighborhood": "East Village",
+      "vibe": "grungy, local, unpretentious",
+      "best_for": "sitting under a tree with a coffee and doing nothing",
+      "go_when": "weekday morning"
+    },
+    {
+      "name": "The High Line",
+      "neighborhood": "Chelsea",
+      "vibe": "elevated, scenic, surprisingly peaceful",
+      "best_for": "long walks when you need to think",
+      "go_when": "early morning before the tourists arrive"
+    },
+    {
+      "name": "Levain Bakery",
+      "neighborhood": "Upper West Side",
+      "vibe": "warm, cramped, worth it",
+      "best_for": "the best chocolate chip walnut cookie of your life",
+      "go_when": "anytime, always"
+    },
+    {
+      "name": "Brooklyn Bridge Park",
+      "neighborhood": "DUMBO",
+      "vibe": "breathtaking, romantic, windy",
+      "best_for": "Manhattan skyline views at golden hour",
+      "go_when": "sunset"
+    },
+    {
+      "name": "Strand Bookstore",
+      "neighborhood": "Union Square",
+      "vibe": "overwhelming, cozy, endless",
+      "best_for": "getting lost for two hours and leaving with five books you didn't plan to buy",
+      "go_when": "rainy day"
+    },
+    {
+      "name": "Joe's Pizza",
+      "neighborhood": "Greenwich Village",
+      "vibe": "no frills, legendary, perfect",
+      "best_for": "a $3 slice that beats every fancy restaurant",
+      "go_when": "2am after anything"
+    },
+    {
+      "name": "The Met",
+      "neighborhood": "Upper East Side",
+      "vibe": "grand, overwhelming, inspiring",
+      "best_for": "getting lost in a different century for an afternoon",
+      "go_when": "Friday evening when it stays open late"
+    }
+  ]
+}
