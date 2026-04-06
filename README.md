@@ -25,3 +25,7 @@ Violets are blue
          ...........IT'S RAINING.
 ```
 what are the colors of a rainbow, I forget.
+
+
+# links to blogs
+[yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)
