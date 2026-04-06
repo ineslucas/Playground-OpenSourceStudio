@@ -27,7 +27,7 @@ Violets are blue
 what are the colors of a rainbow, I forget.
 
 
-# links to blogs
-[name](blog url) <br>
-[yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)  
-[Sihong's blog :D](https://www.notion.so/Open-Source-Studio-33a7c8dca3458049ad98d791a17b1fc9?source=copy_link)
+## links to blogs
+* [name](blog url)
+* [yafira's blog ✿](https://electrocuteitp.wordpress.com/category/open-source-studio/)  
+* [Sihong's blog :D](https://www.notion.so/Open-Source-Studio-33a7c8dca3458049ad98d791a17b1fc9?source=copy_link)
